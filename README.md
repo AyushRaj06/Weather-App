@@ -27,22 +27,21 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 
 # Install dependencies:
 
-- Open your terminal and navigate to the project directory. Then, run the following command:
+Open your terminal and navigate to the project directory. Then, run the following command:
 
     npm i
+   
 
 # Update API Key:
 
-$ This weather app utilizes an external weather API to retrieve data. To personalize your experience, you'll need to replace the placeholder API key with your own. Navigate to the WeatherApp.jsx on line 12.
+- This weather app utilizes an external weather API to retrieve data. To personalize your experience, you'll need to replace the placeholder API key with your own. Navigate to the WeatherApp.jsx on line 12.
 
-* You can get you API key here [Open Weather](https://openweathermap.org/)
+- You can get you API key here [Open Weather](https://openweathermap.org/)
 
-Start the development server:
+# Start the development server:
 
 Once you've updated the API key, run the following command in your terminal to start the development server:
 
-Bash
-npm run dev
-Use code with caution.
-content_copy
+    npm run dev
+
 This will launch the app in your web browser, usually at http://localhost:5173/.

@@ -23,18 +23,17 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 
 # Clone the repository (if downloaded):
 
-    If you downloaded this project as a zip file, extract it to a desired location. If you cloned it from a Git repository, you can skip this step.
+- If you downloaded this project as a zip file, extract it to a desired location. If you cloned it from a Git repository, you can skip this step.
 
 # Install dependencies:
 
 - Open your terminal and navigate to the project directory. Then, run the following command:
 
-    Bash
-    npm install
+    npm i
 
 # Update API Key:
 
-    This weather app utilizes an external weather API to retrieve data. To personalize your experience, you'll need to replace the placeholder API key with your own. Navigate to the WeatherApp.jsx on line 12.
+$ This weather app utilizes an external weather API to retrieve data. To personalize your experience, you'll need to replace the placeholder API key with your own. Navigate to the WeatherApp.jsx on line 12.
 
 * You can get you API key here [Open Weather](https://openweathermap.org/)
 
